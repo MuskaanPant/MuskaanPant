@@ -1,4 +1,6 @@
+<p align="center">
 # Muskaan Pant
+</p>
 
 <h3 align="center">Full-Stack Developer • AI/ML Engineer • Data Science Enthusiast</h3>
 
@@ -49,82 +51,6 @@ I enjoy transforming ideas into production-ready software. Whether it is a real-
 
 ---
 
-# 🧰 Technology Arsenal
-
-## Programming Languages
-
-| Language | Level |
-|-----------|--------|
-| C | Advanced |
-| C++ | Advanced |
-| Python | Advanced |
-| JavaScript | Advanced |
-| HTML/CSS | Advanced |
-
----
-
-## Frontend
-
-```text
-React.js
-Responsive UI Design
-Component-Based Architecture
-REST API Integration
-```
-
-## Backend
-
-```text
-Node.js
-Express.js
-REST APIs
-Authentication & Authorization
-Real-Time Communication
-```
-
-## AI / Machine Learning
-
-```text
-TensorFlow
-Scikit-Learn
-Random Forest
-XGBoost
-Neural Networks
-Ensemble Learning
-Data Analytics
-```
-
-## Databases
-
-```text
-MySQL
-Oracle Database
-Database Optimization
-Query Performance Tuning
-```
-
-## DevOps & Infrastructure
-
-```text
-Docker
-Linux
-Git
-GitHub
-VS Code
-Containerized Deployments
-```
-
-## AI Productivity Tools
-
-```text
-Claude
-Gemini
-Cursor
-Kiro
-```
-
----
-
 # 🚀 Featured Work
 
 ## 🚌 UNI-Bus
@@ -154,9 +80,6 @@ Leaflet.js
 REST APIs
 ```
 
-**Repository:**  
-https://github.com/AMAN6921/GeuBus-Smart-DBMS-Based-Bus-Management-System
-
 ---
 
 ## 🎓 Sikhsha-Box
@@ -184,9 +107,6 @@ React
 Shell Scripting
 Container Orchestration
 ```
-
-**Repository:**  
-https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Affordable-Education-Labs
 
 ---
 
@@ -216,9 +136,6 @@ Firewall Rules
 Intrusion Detection
 ```
 
-**Repository:**
-https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Affordable-Education-Labs
-
 ---
 
 # 📈 Career Highlights
@@ -234,23 +151,13 @@ https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Afforda
 
 ---
 
-## Professional Development
-
-### Full Stack Web Development Certification
-
-- Completed 1300+ learning modules
-- Built multiple real-world applications
-- Covered frontend, backend, databases, deployment, and DevOps
-
----
-
 # 🎯 Current Mission
 
 ```python
 current_mission = {
     "learning": [
-        "System Design",
-        "Microservices",
+        "Artificial Intelligence",
+        "Data Science",
         "Advanced Machine Learning"
     ],
 
@@ -258,12 +165,6 @@ current_mission = {
         "Scalable MERN Applications",
         "AI-Powered Products",
         "Cloud Native Solutions"
-    ],
-
-    "researching": [
-        "Distributed Systems",
-        "Container Orchestration",
-        "Real-Time Data Processing"
     ],
 
     "improving": [
@@ -304,4 +205,3 @@ current_mission = {
 > Build. Learn. Lead. Repeat.
 
 *"Great software is not just code. It is a solution to a real problem."*
-```
