@@ -1,6 +1,6 @@
-<p align="center">
-# Muskaan Pant
-</p>
+<h1 align="center">
+  Muskaan Pant
+</h1>
 
 <h3 align="center">Full-Stack Developer • AI/ML Engineer • Data Science Enthusiast</h3>
 
